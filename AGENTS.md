@@ -4,7 +4,7 @@ The repo at https://github.com/fastpresspages/agency is the FastPress Labs store
 
 ## Facts that must stay true
 - 5 service pillars / 12 service lines with starting prices (audit $150, fix sprint $750, build $1,500, care plan $100/mo, advising from $150).
-- 7 public repos at github.com/fastpresspages as of 26 Oct 2026. Update this count when a new repo ships.
+- Count of public repos lives in the org profile README (github.com/fastpresspages). Check it there rather than trusting a number written here.
 - Proof items are dated 24 Oct 2026 with real audit artifacts committed in the linked repos.
 - Form target: formsubmit.co/meetcode99@gmail.com, `request_type: "AI agency enquiry"`, honeypot `_honey` (class `hp`).
 
