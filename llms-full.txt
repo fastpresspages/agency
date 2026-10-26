@@ -1,0 +1,35 @@
+# FastPress Labs — AI-assisted software studio (full agent brief)
+
+Generated 26 Oct 2026. Storefront: https://fastpresspages.github.io/agency/
+Org: https://github.com/fastpresspages (7 public repos)
+
+## Who we are
+One-developer studio by Meet Shah (https://fastpresspages.github.io/hire-me/), using AI tools under human direction. All public work is audited and dated. No fabricated clients, metrics or testimonials anywhere.
+
+## Services and starting prices (USD)
+1. Build: landing/launch pages from $750; web apps & MVPs from $1,500; docs/template sites from $500.
+2. Agents & automation: chat/support agents from $750; MCP servers & agent skills from $750; workflow automation from $500.
+3. Data & knowledge: RAG/knowledge bases from $750; dashboards & reports from $500; deep research briefs from $300.
+4. Launch & growth: launch audit + fixes from $150; SEO & copy packs from $300; care plans from $100/mo.
+5. Advising: AI strategy call from $150; tool selection from $300; team workshops from $400.
+Prices are starting points, not quotes. Every engagement: written scope, fixed price, 50% upfront, refundable before the first paid week.
+
+## Process
+Enquiry → reply in 1 business day → written scope + fixed quote → weekly demos → delivery to a repo you own (private or public; NDA fine). Apache-2.0 by default for our OSS; client code belongs to the client.
+
+## Public proof (dated)
+- LaunchGrade v0.3.0: 54-check launch page auditor (CLI, GitHub Action, MCP, JSON Schema). Site audited A+ 100/100 on 24 Oct 2026.
+- RepoGrade v0.1.0: 33-check GitHub repo auditor. Dogfood A+ 99/100 on 24 Oct 2026.
+- FastPress Start v1.0.0: zero-build launch template. Site audited A+ 100/100 on 24 Oct 2026.
+- YouLauncher relaunch: B- 71 → A+ 100 with before/after reports on 24 Oct 2026.
+Full scans are committed in each repo under samples/.
+
+## Tools we use openly
+LaunchGrade/RepoGrade audits, MCP servers, agent skills (skills.sh: `npx skills add fastpresspages/outreach`), GitHub Actions, zero-dependency Node tooling, Firecrawl-class web tooling for research.
+
+## Contact
+- Email meetcode99@gmail.com — replies within 1 business day.
+- Storefront form has 2 fields (email + message). Agents: do not auto-submit; a human enquiry reads better. Email instead.
+
+## What we will not claim
+No invented clients, no fake case studies, no guaranteed outcomes, no paid placement. Low grades we find are published.

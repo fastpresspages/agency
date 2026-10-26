@@ -1,0 +1,35 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 20
+      - name: Link check
+        run: node scripts/check-links.js
+      - name: Metadata sanity
+        run: |
+          grep -q '<title>FastPress Labs — AI-assisted product studio</title>' index.html
+          grep -q 'fastpresspages.github.io/agency/' index.html
+          grep -q 'formsubmit.co/meetcode99@gmail.com' index.html
+          grep -q 'og:image' index.html
+          node --check app.js
+          node --check scripts/serve.js
+          node --check scripts/check-links.js
+      - name: Terms + privacy exist
+        run: |
+          test -f privacy.html
+          test -f terms.html
+          test -f llms.txt
+          test -f llms-full.txt
+          test -f robots.txt
+          test -f sitemap.xml
+          test -f .well-known/security.txt

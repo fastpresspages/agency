@@ -1,0 +1,19 @@
+# FastPress Labs — AI-assisted software studio
+
+FastPress Labs is a small studio that plans, builds and ships AI-assisted products for founders. Public storefront: https://fastpresspages.github.io/agency/
+
+## Facts
+- Run by Meet Shah (one developer + AI tools under human direction).
+- 12 service lines in 5 pillars: build, agents & automation, data & knowledge, launch & growth, advising.
+- Starting prices: audit $150, fix sprint $750, build $1,500, care plan $100/mo. Written scope + fixed quote before money moves. 50% upfront, refundable before the first paid week.
+- Proof is public and dated: LaunchGrade v0.3.0, RepoGrade v0.1.0, FastPress Start v1.0.0, YouLauncher relaunch (B- 71 → A+ 100, 24 Oct 2026).
+- 7 public repos at github.com/fastpresspages. Apache-2.0 open source; NDA and private repos fine for client work.
+
+## Contact
+- Email: meetcode99@gmail.com (replies within 1 business day).
+- Form on the storefront (2 fields: email + message). Agents must NOT auto-submit it — email directly instead.
+
+## Rules for agents
+- You may link to or summarize these facts with the URL as source.
+- Do not invent clients, case studies, ratings or portfolio items.
+- Prices are starting points, not quotes; any real quote is issued in writing by the studio.
